@@ -1,5 +1,7 @@
 # WLED PCB V1
 
+This PCB is outdated and I can no longer recommend using it. Please use [WLED-PCB-V2](https://github.com/jhns-de/WLED-PCB-V2) instead. It has much more safety features.
+
 ## Summary
 This is a PCB to control a 12V [GS8208](http://www.normandled.com/upload/201805/GS8208%20LED%20Datasheet.pdf) LED Stripe with [WLED](https://github.com/Aircoookie/WLED).
 The PCB contains a voltage regulator to provide 5V for the Wemos D1 mini and a level shifter for the signal line.
